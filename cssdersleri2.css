@@ -1,0 +1,28 @@
+/*p, div, h1 {
+    color: green;
+}
+div b u {
+    color: purple;
+}*/
+p > em {
+    color:yellow;
+}
+p span em {
+    color: purple;
+}
+
+h1 + p b{
+    color: yellow;
+}
+/*h1 ~ p {
+    background-color: red;
+}*/
+ul li.telte + li {
+    color: red;
+}
+ul li.telte ~ li {
+    color: yellow;
+}
+.telte {
+    color: red;
+}

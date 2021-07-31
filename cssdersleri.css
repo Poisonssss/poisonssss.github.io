@@ -1,0 +1,6 @@
+/*@import url(cssdersleri2.css); import 2 css dosyasını bir araya getirmek icindir */
+@import url(cssdersleri2.css);
+
+body {
+    background-color: rgb(83, 191, 241);
+}
